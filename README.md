@@ -2,10 +2,10 @@
 
 ## Course Info
 
-- IMNY-UT 224 Introduction to Machine Learning for the Arts
-- Interactive Media Arts (IMA), Tisch School of the Arts, New York University
-- 370 Jay Street, Room 408
-- Friday 5:20 PM - 8:20 PM
+- ITPG-GT 2465  Machine Learning for the Web
+- ITP, Tisch School of the Arts, New York University
+- 370 Jay Street, Room 407
+- Friday 6:00 PM - 8:30 PM
 
 ## Instructor Info
 
@@ -86,10 +86,8 @@ The course will be once per week for three hours for a total of fourteen weeks.
 
 ## Grading
 
-Grades for the course will follow the standard A through F letter grading system and will be determined by the following breakdown:
-
 - 25% Participation
-- 50% Assignments (including reading responses and other written work)
+- 50% Assignments
 - 25% Final project
 
 ## Assignments
