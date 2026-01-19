@@ -1,4 +1,4 @@
-# Introduction to Machine Learning for the Arts - Fall 2025
+# Introduction to Machine Learning for the Arts - Spring 2026
 
 ## Course Info
 
@@ -14,33 +14,35 @@
 
 ## Schedule
 
-### 1: [Introduction](01-introduction) (9/5)
+### 1: [Introduction](01-introduction) (1/23)
 
-### 2: [Transfer Learning](02-transfer-learning) (9/12)
+### 2: [Transfer Learning](02-transfer-learning) (1/30)
 
-### 3: [Pre-trained models 1: Body](03-body-models) (9/19)
+### 3: [Pre-trained models 1: Body](03-body-models) (2/6)
 
-### 4: [Hand Models](04-hand-models) (9/26)
+### 4: [Hand Models](04-hand-models) (2/13)
 
-### 5: [Face Models](05-face-modals) (10/3)
+### 5: [Face Models](05-face-modals) (2/20)
 
-### 6: [Sound Classifier](06-sound-classifier) (10/10)
+### 6: [Sound Classifier](06-sound-classifier) (2/27)
 
-### 7: [Training a Neural Network 2](07-neural-networks) (10/17)
+### 7: [Training a Neural Network 2](07-neural-networks) (3/6)
 
-### 8: [Convolutional Neural Networks (CNN)](08-cnn) (10/24)
+### 8: [Convolutional Neural Networks (CNN)](08-cnn) (3/13)
 
-### 9: [Text and Language Models](09-llms) (10/31)
+### Spring Break (3/20) - No Class
 
-### 10: [Image Generation Models](10-image-models) (11/7)
+### 9: [Text and Language Models](09-llms) (3/27)
 
-### 11: [Final Project Proposals](final) (11/14)
+### 10: [Image Generation Models](10-image-models) (4/3)
 
-### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/blob/main/10-image-models/README.md#code-examples-and-implementations) Workshop (11/21)
+### 11: [Final Project Proposals](final) (4/10)
 
-### 13: [Final Project Play Testing](final) (11/26 Wednesday)
+### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/blob/main/10-image-models/README.md#code-examples-and-implementations) Workshop (4/17)
 
-### 14: [Final Project Presentations](final) (12/05)
+### 13: [Final Project Play Testing](final) (4/24)
+
+### 14: [Final Project Presentations](final) (5/1)
 
 ## Community Guidelines
 
