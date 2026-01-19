@@ -53,7 +53,7 @@ Example gemini curl [link](https://ai.google.dev/api?_gl=1*13fjlsq*_up*MQ..&gcli
 
 ## Assignment
 
-- Use Gemini APIs to build any experience with p5.js, [example](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/blob/main/09-llms/README.md#code-examples)
+- Use Gemini APIs to build any experience with p5.js, [example](https://github.com/ml5js/ML-for-the-Web-S26/blob/main/09-llms/README.md#code-examples)
 - Or try chat with [Gemini](https://gemini.google.com/app), [Google AI studio](https://aistudio.google.com/prompts/new_chat), [Chatgpt](https://chatgpt.com/), [Claude](https://claude.ai/new) and document your findings. 
-- Or add more features to the [Word2Vec/Sentiment sketch](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/blob/main/09-llms/README.md#code-examples).
-- Document your experminents in a blog post and add a link to the [Assignment Wiki page](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-9). Remember to include visual documentation (screenshots, GIFs, etc)
+- Or add more features to the [Word2Vec/Sentiment sketch](https://github.com/ml5js/ML-for-the-Web-S26/blob/main/09-llms/README.md#code-examples).
+- Document your experminents in a blog post and add a link to the [Assignment Wiki page](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-9). Remember to include visual documentation (screenshots, GIFs, etc)

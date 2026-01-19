@@ -38,7 +38,7 @@
 
 ### 11: [Final Project Proposals](final) (4/10)
 
-### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/blob/main/10-image-models/README.md#code-examples-and-implementations) Workshop (4/17)
+### 12: [Final Project Work session](final) + Runway [workflow](https://academy.runwayml.com/workflows/using-workflows) + Gemini Nano banana 3, [doc](https://ai.google.dev/gemini-api/docs/image-generation), [sketch](https://github.com/ml5js/ML-for-the-Web-S26/blob/main/10-image-models/README.md#code-examples-and-implementations) Workshop (4/17)
 
 ### 13: [Final Project Play Testing](final) (4/24)
 
@@ -173,5 +173,5 @@ Teachers and students work together to create a supportive learning environment.
 
 ## Acknowledgment
 
-This syllabus is adapted from the work of previous instructors—[Daniel Shiffman (Fall 2023)](https://github.com/ml5js/Intro-ML-Arts-IMA-F25) and [Jack Du (Summer 2024)](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/)—who have generously shared their materials. Thank you also to Gottfried Haider, his course materials for Machine Learning for Artists and Designers also served as a foundation for the materials presented here.
+This syllabus is adapted from the work of previous instructors—[Daniel Shiffman (Fall 2023)](https://github.com/ml5js/ML-for-the-Web-S26) and [Jack Du (Summer 2024)](https://jackbdu.com/Intro-ML-Arts-IMA-Summer24/)—who have generously shared their materials. Thank you also to Gottfried Haider, his course materials for Machine Learning for Artists and Designers also served as a foundation for the materials presented here.
 

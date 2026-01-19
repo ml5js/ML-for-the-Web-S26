@@ -72,9 +72,9 @@
 
    Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
    What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
-   What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values? [Code examples](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/tree/main/07-neural-networks#code-examples)
+   What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values? [Code examples](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/07-neural-networks#code-examples)
     - Can you add more keypoints from the hand to the data collection? (All the keypoints?)
     - Can you add more classification categories?
     - Can you create an interface for training and showing the results of model's prediction?
     - Can you turn this into a regression model?
-3. Add a link to the post and your p5.js sketch on the [Assignment 7](https://github.com/ml5js/Intro-ML-Arts-IMA-F25/wiki/Assignment-7) Wiki page. 
+3. Add a link to the post and your p5.js sketch on the [Assignment 7](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-7) Wiki page. 
