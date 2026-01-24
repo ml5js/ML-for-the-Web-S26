@@ -42,6 +42,7 @@
 - [Canvas Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Canvas)
 - [Webcam Image Classification_on Doodles](https://editor.p5js.org/ml5/sketches/ImageClassification_DoodleNet_Video)
 - Class sketch: https://editor.p5js.org/yining/sketches/jcftisRzv
+- Class skeetch 2: https://editor.p5js.org/yining/sketches/EpGwfrfd7
 
 ### p5.js review
 
