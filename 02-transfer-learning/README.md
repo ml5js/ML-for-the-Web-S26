@@ -1,6 +1,6 @@
 # Transfer Learning
 
-- [Transfer Learning Slides](https://docs.google.com/presentation/d/1ilHibCDFqe6mM7wlv6PE0woH2nlSiaINudRziaZ72OY/edit?usp=sharing)
+- [Transfer Learning Slides](https://docs.google.com/presentation/d/1F5iA76Xs63k1ZdzegPnf75QbtZ708p7AWlRbGWMUQGM/edit?usp=sharing)
 - [ml5.js + Teachable Machine Video Example](https://editor.p5js.org/ima_ml/sketches/vOSSEZwGf)
 
 ## Objectives
