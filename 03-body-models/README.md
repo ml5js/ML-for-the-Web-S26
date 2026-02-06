@@ -1,6 +1,6 @@
 # Body Models
 
-- [Body Models Slides](https://docs.google.com/presentation/d/1BZriRoot7pQAkQt5PaMyFBOG39uvXQi84IvVkEDVkfo/edit?usp=sharing)
+- [Body Models Slides](https://docs.google.com/presentation/d/1rY_V6__rJsBz1Jo9tDaeADp8dowHcxpU5yzZ1QASQL8/edit?usp=sharing)
 
 ## Objectives
 
