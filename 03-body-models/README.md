@@ -69,6 +69,7 @@
 - class sketch: https://editor.p5js.org/yining/sketches/AFQlhfa0X
 - class sketch 2 speech and text: https://editor.p5js.org/yining/sketches/6NBZrXqaO
 - class sketch 3 body seg: https://editor.p5js.org/yining/sketches/gxgSlwUAY
+- class sketch: a trail of the noise: https://editor.p5js.org/yining/sketches/-6mNeDA86
 
 #### Creative Applications
 
