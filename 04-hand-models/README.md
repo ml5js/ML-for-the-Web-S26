@@ -1,6 +1,6 @@
 # Hand Models
 
-[Slides](https://docs.google.com/presentation/d/1RieL21CU8o3UqbWmM0tehU8WgxqwqH9alXMbA0gZk3g/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1-WGHamcmqNTgKMfuTRZaxJasFQ0vySscJWQKEY35hXU/edit?usp=sharing)
 
 ## Objectives
 
