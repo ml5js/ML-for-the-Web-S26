@@ -39,7 +39,8 @@
 
 - [HandPose - pinch painting](https://editor.p5js.org/ima_ml/sketches/v1x7MSdLW)
 - Woooooow: https://editor.p5js.org/yining/sketches/uiG-8dfi8
-- https://editor.p5js.org/yining/sketches/ND2zXhqdr
+- https://editor.p5js.org/yining/sketches/ND2zXhqdr (Thumb tip to Index finger tip)
+- https://editor.p5js.org/yining/sketches/aN6giRBWb (Love)
 
 #### Core Functionalities
 
