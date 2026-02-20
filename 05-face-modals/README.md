@@ -1,6 +1,6 @@
 # Face Models
 
-[Slides](https://docs.google.com/presentation/d/1wRaI0nckGsw6wE4Op1WbXiDgag3d_zUzlbfUxPpX1bU/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1Mf-7s0fawdcYEanMWQ8vHKgklmoPn7Nfjx2I9Z3byas/edit?usp=sharing)
 
 ## Objectives
 
