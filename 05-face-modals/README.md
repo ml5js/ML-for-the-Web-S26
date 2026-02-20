@@ -19,7 +19,6 @@
 
 ### Related Projects
 - [Customizable AR face masks - Made with TensorFlow.js](https://www.youtube.com/watch?v=TpiGFaHC_5U) by Samarth Gulati and Praveen Sinha.
-- [DeepPrivacy2 - A Toolbox for Realistic Image Anonymization](https://github.com/hukkelas/deep_privacy2) by Hukkelås, Håkon and Lindseth, Frank.
 - [Pose Animator](https://github.com/yemount/pose-animator/) by Shan Huang.
 
 #### Music
@@ -28,11 +27,6 @@
 - [Eye Conductor](https://www.andreasrefsgaard.dk/projects/eye-conductor/) by Andreas Refsgaard.
 - [Sampler](https://experiments.withgoogle.com/sampler) by Use All Five & Google Creative Lab.
 - [Mouth-Controlled Synthesizer with FaceMesh](https://www.instagram.com/p/C41i1VQsfs0/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/lNFGj9ENL) ]
-- [Melody Painter with HandPose](https://www.instagram.com/p/C4WozrtsZ4r/) by Jack B. Du. [ [Live Demo](https://editor.p5js.org/jackbdu/full/jIvzImJMb) ]
-
-#### Playful
-- [Bubbles](https://www.instagram.com/p/C6S5BHPCGu3/) by Nahuel Gerth.
-- [Finger Numerals](https://www.instagram.com/p/CsBMOvUL4CP/) by Nahuel Gerth.
 
 ### Code Examples
 
