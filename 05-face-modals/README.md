@@ -35,6 +35,7 @@
 - https://editor.p5js.org/yining/sketches/p0ZwhM4tu
 - face mask: https://editor.p5js.org/yining/sketches/jGWhn2bv5 download the face image here: https://github.com/samarthgulati/ar-face-filters/blob/master/assets/jamini-mask.jpg
 - Face lip and tonge emoji: https://editor.p5js.org/yining/sketches/qRlAhiHLG
+- Particle Eye: https://editor.p5js.org/yining/sketches/hJut1k5su import this particle class: https://editor.p5js.org/p5/sketches/Simulate:_ParticleSystem
 
 #### Examples
 
