@@ -34,6 +34,7 @@
 - https://editor.p5js.org/yining/sketches/FNjlzk9hw
 - https://editor.p5js.org/yining/sketches/p0ZwhM4tu
 - face mask: https://editor.p5js.org/yining/sketches/jGWhn2bv5 download the face image here: https://github.com/samarthgulati/ar-face-filters/blob/master/assets/jamini-mask.jpg
+- Face lip and tonge emoji: https://editor.p5js.org/yining/sketches/qRlAhiHLG
 
 #### Examples
 
