@@ -63,7 +63,7 @@
 - [ml5.js: Pose Classification with PoseNet and ml5.neuralNetwork() - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/2-pose-classifier)
 - [ml5.js: Pose Regression with PoseNet and ml5.neuralNetwork() - video tutorial](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/7-posenet/3-pose-regression)
 
-## Assignment 7
+## Assignment 6
 1. Reading:
    - [Chapter 10: Neural Network, Nature of Code](https://natureofcode.com/book/chapter-10-neural-networks/) by Daniel Shiffman.
    - [But what _is_ a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by 3Blue1Brown.
@@ -72,9 +72,9 @@
 
    Try to invent more elegant and intuitive interaction for collecting real-time data beyond clicking buttons?
    What other real-time inputs might you consider beyond mouse position, image pixels, or face/pose/hand tracking? Could you use real-time sensor data?
-   What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values? [Code examples](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/07-neural-networks#code-examples)
+   What other real-time outputs might you consider beyond color or sound modulation? Could the output be a physical computing device? Multiple outputs like R,G,B values? [Code examples](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/06-neural-networks#code-examples)
     - Can you add more keypoints from the hand to the data collection? (All the keypoints?)
     - Can you add more classification categories?
     - Can you create an interface for training and showing the results of model's prediction?
     - Can you turn this into a regression model?
-3. Add a link to the post and your p5.js sketch on the [Assignment 7](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-7) Wiki page. 
+3. Add a link to the post and your p5.js sketch on the [Assignment 6](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-6) Wiki page. 

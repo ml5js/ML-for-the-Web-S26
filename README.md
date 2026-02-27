@@ -24,9 +24,9 @@
 
 ### 5: [Face Models](05-face-modals) (2/20)
 
-### 6: [Sound Classifier](06-sound-classifier) (2/27)
+### 6: [Training a Neural Network](06-neural-networks) (2/27)
 
-### 7: [Training a Neural Network 2](07-neural-networks) (3/6)
+### 7: [Sound Classifier](07-sound-classifier) (3/6)
 
 ### 8: [Convolutional Neural Networks (CNN)](08-cnn) (3/13)
 

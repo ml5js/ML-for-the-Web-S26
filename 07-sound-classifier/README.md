@@ -80,7 +80,7 @@
 - [Teachable Snake](https://experiments.withgoogle.com/teachable-snake)
 - [Move that Little Dude](https://dylandawkinsblog.wordpress.com/2019/05/08/machine-learning-for-web-final/) 
 
-## Assignment 6
+## Assignment 7
 1. Watch Video [ml5.js: Sound Classification](https://www.youtube.com/watch?v=cO4UP2dX944)
 2. Build an interactive browser experiment related to sound data, with an Arduino component(optional).
-3. Document your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 5 Wiki page](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-6). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
+3. Document your p5.js sketch in a blog post. Add a link to the post and your p5.js sketch on the [Assignment 7 Wiki page](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-7). In your blog post, include visual documentation such as a recorded screen capture / video / GIFs of your sketch.
