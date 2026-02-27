@@ -1,6 +1,6 @@
 # Training a Neural Network
 
-[Slides](https://docs.google.com/presentation/d/1VfD-AfsOtljmxXpR_1hj_M7yOC0zwSRRb-9HfYj4oNs/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1mZyjMORumAV1upT6gXvn0ITfl839lUSQ0DFanLZXQzI/edit?usp=sharing)
 
 ## Objectives
 
