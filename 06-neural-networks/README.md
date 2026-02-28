@@ -37,6 +37,7 @@
 - [NeuralNetwork - Train and Save](https://editor.p5js.org/ml5/sketches/rR51vvi-u)
 - [NeuralNetwork - Load Model](https://editor.p5js.org/yining/sketches/XHGgqSLNu)
 - Class: https://editor.p5js.org/yining/sketches/GjbZopuEZ
+- Class 2: https://editor.p5js.org/yining/sketches/e98BLuWsg
 
 ### Supplemental Materials
 
