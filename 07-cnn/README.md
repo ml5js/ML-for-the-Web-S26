@@ -114,6 +114,6 @@ CNN Visualization: https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar1
 
 ## Assignment
 1. Reading: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn.
-2. Coding: Reading line by line in the 4 "Training Image Classifiers" [examples](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/08-cnn#training-image-classifiers), build on top of any of the 4 examples
-3. Add a link to the post and your p5.js sketch on the [Assignment 8](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-8) Wiki page.
+2. Coding: Reading line by line in the 4 "Training Image Classifiers" [examples](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/07-cnn#training-image-classifiers), build on top of any of the 4 examples
+3. Add a link to the post and your p5.js sketch on the [Assignment 7](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Assignment-7) Wiki page.
 

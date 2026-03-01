@@ -26,9 +26,9 @@
 
 ### 6: [Training a Neural Network](06-neural-networks) (2/27)
 
-### 7: [Sound Classifier](07-sound-classifier) (3/6)
+### 7: [Convolutional Neural Networks (CNN)](07-cnn) (3/6)
 
-### 8: [Convolutional Neural Networks (CNN)](08-cnn) (3/13)
+### 8: [Sound Classifier](08-sound-classifier) (3/13)
 
 ### Spring Break (3/20) - No Class
 
