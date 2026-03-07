@@ -111,7 +111,7 @@ CNN Visualization: https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar1
 - [Training a Webcam Image Classifier with Convolutional Layers](https://editor.p5js.org/jackbdu/sketches/7Y6VDvUO6)
 - [Doodle Classification with DoodleNet](https://editor.p5js.org/jackbdu/sketches/ts3fuRZGW)
 - class: https://editor.p5js.org/yining/sketches/D0DuuxVMu, https://editor.p5js.org/yining/sketches/gOpmdHQ_U
-- class: https://editor.p5js.org/yining/sketches/IML0wjHy7
+- class: https://editor.p5js.org/yining/sketches/IML0wjHy7, https://editor.p5js.org/yining/sketches/W23bp4-vD
 
 ## Assignment
 1. Reading: [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/) by Ujjwal Karn.
