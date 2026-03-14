@@ -72,6 +72,7 @@
 - [tfjs speech command model](https://github.com/tensorflow/tfjs-models/tree/master/speech-commands)
 - [ml5js sound classifier](https://learn.ml5js.org/#/reference/sound-classifier)
 - [Arduino Machine learning](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino/), [Color2Emoji](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
+- [Lab: Serial Output From p5.js Using the p5.webserial Library](https://itp.nyu.edu/physcomp/labs/labs-serial-communication/lab-webserial-output-from-p5-js/)
 
 ## Inspirations about Teachable Machine:
 
