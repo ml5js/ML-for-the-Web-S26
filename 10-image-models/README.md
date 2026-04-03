@@ -1,6 +1,7 @@
 # Generative Images
 
 - [Slides](https://docs.google.com/presentation/d/1xTqKGvtxoeei1b1-eWf2AGwHq-VhSb5IoZvoxfI8ka0/edit?usp=sharing)
+- [Characters slides](https://www.figma.com/deck/Mcz4YkPntWhfCDfEAmpSlz/Runway-Characters?node-id=3-3678&t=vf5o0lvmKZ0Zc4l3-1)
 
 ## Autoencoders
 
