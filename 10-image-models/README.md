@@ -73,4 +73,5 @@
 
 ## Assignment
 
-- Create a final project proposal. See [final project guidelines](https://github.com/ml5js/ML-for-the-Web-S26/tree/main/final). Add your proposal date to [the course wiki](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Final-Proposals).
+- Use Gemini API to generate images or videos
+- Or use Runway API to generate videos or characters
