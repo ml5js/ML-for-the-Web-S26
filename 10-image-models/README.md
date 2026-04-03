@@ -70,6 +70,7 @@
   - Gemini text to image https://editor.p5js.org/yining/sketches/aHagF-bVN
   - Gemini image to image editing: https://editor.p5js.org/yining/sketches/lz2oKyg8R
   - Gemini Veo3 text to video: https://editor.p5js.org/yining/sketches/gD3HVpQoS
+  - Gemini text to image: https://editor.p5js.org/yining/sketches/td6rTCvi8
 
 ## Assignment
 
