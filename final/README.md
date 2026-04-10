@@ -40,7 +40,7 @@ Class time will be allocated for you to make progress on your project. Make a go
 
 Final project presentations are **Friday, may 1st**, [please check the wiki page](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Final-Presentations). In class presentations will be approximately 10 minutes each.
 
-Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Final-Presentations). This is due **Tuesday, December 9**.
+Please post your final project documentation to a web page (blog post is fine) and link next to your name on the [final presentation wiki](https://github.com/ml5js/ML-for-the-Web-S26/wiki/Final-Presentations).
 
 Final Project presentations are demonstrations and do not require a slide deck, however, you might find slides useful to help you plan and structure your demo and discussion. Your documentation should come in written form (equivalent of 1-3 pages) as a blog post. It's up to you to figure out how to best document your project, at a minimum, please include the following:
 
